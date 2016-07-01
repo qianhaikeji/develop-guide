@@ -43,7 +43,7 @@ markdown编辑器：[typora](http://www.typora.io/)
 
 > 在没有特殊需求的情况下，一律使用前后端分离的方式进行项目开发，统一使用restful接口。
 
-### 1.框架选择
+### 1.技术栈选择
 
 #### 前端框架
 
@@ -89,5 +89,5 @@ redis
 
 [python flask]()
 
-[Java springboot]()
+[Java springboot](https://github.com/qianhaikeji/spring-boot-seed.git)
 
