@@ -96,5 +96,7 @@ redis
 
 [python flask]()
 
-[Java springboot](https://github.com/qianhaikeji/spring-boot-seed.git)
+[Java springboot base on mongo](https://github.com/qianhaikeji/spring-boot-mongo-seed.git)
+
+[Java springboot base on mysql](https://github.com/qianhaikeji/spring-boot-mysql-seed.git)
 
