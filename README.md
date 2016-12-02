@@ -49,7 +49,7 @@ markdown编辑器：[typora](http://www.typora.io/)
 
 | 框架           | 使用场景                                     |
 | ------------ | ---------------------------------------- |
-| vue2.0       | 优先使用vue开发                                |
+| vue2.0       | 优先使用vue开发,不支持IE8及以下版本                                |
 | angular1.0   | 1. 所用后台管理项目<br>2.如果项目无SEO要求，优先使用angular进行开发。 |
 | react        | 有SEO需求的项目，使用react进行开发。                   |
 | jquery/zepto | html5中的小项目可以使用后端渲染的方式进行开发。               |
